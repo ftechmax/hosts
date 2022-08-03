@@ -1,0 +1,5 @@
+0.0.0.0 telegram.me
+0.0.0.0 telegram.org
+0.0.0.0 telesco.pe
+0.0.0.0 tg.dev
+0.0.0.0 t.me
